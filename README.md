@@ -1,18 +1,17 @@
-## Getting Started
+# 🧩 Estruturas Condicionais
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto explora as estruturas condicionais em programação, como `if`, `else`, `else if` e `switch`. Ele apresenta exemplos práticos e exercícios para ajudar a entender como usar essas estruturas para controlar o fluxo de execução em um programa.
 
-## Folder Structure
+## 📘 Conteúdo
 
-The workspace contains two folders by default, where:
+- Demonstrações de uso de estruturas condicionais
+- Exercícios para praticar lógica condicional
+- Exemplos de aplicação em diferentes cenários de programação
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### 🔍 Exemplos de Uso
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+O projeto inclui vários exemplos para demonstrar o uso de estruturas condicionais. Aqui estão alguns exemplos:
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Exemplo 1**: Verificar se um número é par ou ímpar usando `if-else`.
+- **Exemplo 2**: Identificar a nota de um aluno e atribuir uma mensagem usando `if-else if`.
+- **Exemplo 3**: Decidir uma ação com base em um valor usando `switch`.
